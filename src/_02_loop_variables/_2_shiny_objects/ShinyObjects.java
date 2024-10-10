@@ -25,13 +25,13 @@ public class ShinyObjects {
 	void manyShinyObjects() {
 		
 		// 1. Call the method below to play Mister Zee
-
+playMisterZee();
 		
 		// 2. Ask the user how many shiny objects they want
 		String shiny = JOptionPane.showInputDialog("how many shiny objects do you want");
 		
 		// 3. Play the sound that many times
-
+		
 
 	}
 
